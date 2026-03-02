@@ -33,7 +33,7 @@ export default function Home() {
 
         {/* CTA */}
         <Button asChild size="lg" className="w-full sm:w-auto px-10">
-          <Link href="/voice-chat-2">Start Survey</Link>
+          <Link href="/new-survey">Start Survey</Link>
         </Button>
 
         <p className="text-xs text-muted-foreground">
