@@ -8,7 +8,7 @@ export default function Home() {
       <div className="max-w-xl w-full text-center space-y-8">
         {/* Header */}
         <div className="space-y-3">
-          <h1 className="text-4xl font-bold tracking-tight">Project Horizons <br /> AI Master Mind Series</h1>
+          <h1 className="text-4xl font-bold tracking-tight">Project Horizons <br /> AI Mastermind Series</h1>
           <p className="text-muted-foreground text-lg">
             Help us prepare for our first session together through a short conversation with Hermes, our AI
             assistant. Speak naturally or type.
